@@ -1,2 +1,3 @@
 # devops
-creating repo 
+creating repo  and editing it
+
